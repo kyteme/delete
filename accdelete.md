@@ -1,3 +1,10 @@
+---
+title: Account & Data Deletion Request
+---
+
+# Kyte – Account & Data Deletion Request
+...
+
 # Kyte – Account & Data Deletion Request
 
 Kyte respects your right to control your personal data. You may request deletion of your Kyte account and all associated personal data at any time.
